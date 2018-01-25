@@ -2,7 +2,7 @@
 
 ## Literature Review
 
-Rogers, Everett M. *Diffusion of innovations.* New York: Free Press, 2005.
+Rogers, Everett M. *Diffusion of innovations.* New York: Free Press, 2005.  
 HM 101 .R57 1995
 303.484 R
 
@@ -10,6 +10,8 @@ Everett explores what are the factors that promote the adoption and proliferatio
 1.	How does this process work exactly?
 2.	Are some networks more successful than others at disseminating change? Are some ideas more amenable to diffusion?
 3.  What are the other models? Have there been any recent developments that might overturn this theory?
+
+--
 
 Axelrod, Robert M. *The complexity of cooperation: Agent-based models of competition and collaboration*. Princeton University Press, 1997. 
 HM131 .A894 1997
@@ -20,8 +22,9 @@ The *Complexity of Cooperation* is a follow up to the author's previous work, *T
 2. Axelrod cites the many applications of the Prisoner's Dilemma  conducted by other researchers, such as the behaviors of fish, bacterium and banks. What are some of the applications of the complexity models? Do these model fit within a historical context? (i.e. do we now understand how civilization developed???)
 3.  
 
+--
 
-Bierman, H. Scott, and Luis Florentin Fernandez. *Game theory with economic applications.* Addison Wesley, 1998.
+Bierman, H. Scott, and Luis Florentin Fernandez. *Game theory with economic applications.* Addison Wesley, 1998. 
 HB144 .B54 1993 
 330.015
 
@@ -30,7 +33,9 @@ This is a basic textbook introducing game theory; the theory distills the comple
 2. What are the non-economic applications of this theory?
 3.   
 
-Ross, Ian Simpson, ed. On the wealth of nations: contemporary responses to Adam Smith. No. 19. Thoemmes Pr, 1998. 
+--
+
+Ross, Ian Simpson, ed. On the wealth of nations: contemporary responses to Adam Smith. No. 19. Thoemmes Pr, 1998.  
 HB 161 .05 1998
 330.153 
 
