@@ -7,9 +7,9 @@ HM 101 .R57 1995
 303.484 R
 
 Everett explores what are the factors that promote the adoption and proliferation of ideas and technology and what are the choke points that prevent people from embracing these innovations. Everett posits that ultimately, the process of diffusing ideas is a social process, heavily reliant on social networks, which ultimately yields cultural change.
-1.	How does this process work exactly?
-2.	Are some networks more successful than others at disseminating change? Are some ideas more amenable to diffusion?
-3.  What are the other models? Have there been any recent developments that might overturn this theory?
+1. How does this process work exactly?
+2. Are some networks more successful than others at disseminating change? Are some ideas more amenable to diffusion?
+3. What are the other models? Have there been any recent developments that might overturn this theory?
 
 --
 
@@ -35,7 +35,7 @@ This is a basic textbook introducing game theory; the theory distills the comple
 
 --
 
-Ross, Ian Simpson, ed. On the wealth of nations: contemporary responses to Adam Smith. No. 19. Thoemmes Pr, 1998.  
+Ross, Ian Simpson, ed. *On the wealth of nations: contemporary responses to Adam Smith*. No. 19. Thoemmes Pr, 1998.  
 HB 161 .05 1998
 330.153 
 
