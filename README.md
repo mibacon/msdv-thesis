@@ -13,7 +13,7 @@ Everett explores what are the factors that promote the adoption and proliferatio
 
 --
 
-Axelrod, Robert M. *The complexity of cooperation: Agent-based models of competition and collaboration*. Princeton University Press, 1997. 
+Axelrod, Robert M. *The complexity of cooperation: Agent-based models of competition and collaboration*. Princeton University Press, 1997.  
 HM131 .A894 1997
 302.14-dc21
 
@@ -24,7 +24,7 @@ The *Complexity of Cooperation* is a follow up to the author's previous work, *T
 
 --
 
-Bierman, H. Scott, and Luis Florentin Fernandez. *Game theory with economic applications.* Addison Wesley, 1998. 
+Bierman, H. Scott, and Luis Florentin Fernandez. *Game theory with economic applications.* Addison Wesley, 1998.  
 HB144 .B54 1993 
 330.015
 
@@ -35,7 +35,7 @@ This is a basic textbook introducing game theory; the theory distills the comple
 
 --
 
-Ross, Ian Simpson, ed. *On the wealth of nations: contemporary responses to Adam Smith*. No. 19. Thoemmes Pr, 1998.  
+Ross, Ian Simpson, ed. *On the wealth of nations: contemporary responses to Adam Smith*. No. 19. Thoemmes Pr, 1998.   
 HB 161 .05 1998
 330.153 
 
