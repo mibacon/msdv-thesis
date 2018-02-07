@@ -21,25 +21,23 @@ problem: in order to give readers a better understanding of how their own action
 
 because I want to understand all the different models for mapping/predicting cooperative behavior 
 
-```
-problem: in order to give readers an understanding on the factors that go into building complex social structures 
+	problem: problem: in order to give readers an understanding on the factors that go into building complex social structures 
 
-problem: in order to give readers an understanding on crucial or non-essential elements in social structures (e.g. you can eliminate the police but not the clergy?) 
-```
+	problem: in order to give readers an understanding on crucial or non-essential elements in social structures (e.g. you can eliminate the police but not the clergy?) 
+
 
 because I want to find out how cooperation originally developed among early civilizations
+	
+	problem: in order to give readers a better understanding of what keeps our current civilizations from devolving
 
-```
-problem: in order to give readers a better understanding of what keeps our current civilizations from devolving
-```
 
 because I want to understand how collobaroation and complicity develops in autocratic states
 
-```
-problem: in order to give readers a better understanding of their own possible complicity in wrongdoing
 
-problem: in order to give readers tools to resisting complicity with wrongdoing
-```
+	problem: in order to give readers a better understanding of their own possible complicity in wrongdoing
+
+	problem: in order to give readers tools to resisting complicity with wrongdoing
+
 
 ### Topic: I am studying the network based theory of the diffusion of ideas
 
@@ -47,32 +45,32 @@ Questions:
 
 because I want to learn if this theory can explain the why foreign aid is often misguided
 
-```
-problem: in order to give readers a better understanding of which types of programs/technologies to fund
 
-problem: in order to give readers a better understanding of which methods of distribution would be most effective
-```
+	problem: in order to give readers a better understanding of which types of programs/technologies to fund
+
+	problem: in order to give readers a better understanding of which methods of distribution would be most effective
+
 
 because I want to understand if the spread of ideas was more reliant on travel or network channels
 
-```
-problem: in order to give readers a better understanding of pre-modern communication patterns
-```
+
+	problem: in order to give readers a better understanding of pre-modern communication patterns
+
 
 because I want to learn if this theory can explain the distribution of Aristotelian thought via Muslim texts 
 
-```
-problem: in order to better understand the role of religion in diffusion networks
-```
+
+	problem: in order to better understand the role of religion in diffusion networks
+
    
 because I want to understand why some ideas take off and others do not
 
-```problem: in order to give readers resources for successfully spreading ideas```
+	problem: in order to give readers resources for successfully spreading ideas
 
 because I want to learn if this theory can explain the diffusion of farming throughout ancient civilizations (mesopotamia, south america, indus valley) 
 
-```
-problem: in order to give readers a better understanding of the factors at play for establishing basic fundamentals of civilization
-```
+
+	problem: in order to give readers a better understanding of the factors at play for establishing basic fundamentals of civilization
+
 
 
