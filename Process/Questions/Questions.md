@@ -15,6 +15,19 @@ because I want to understand all the different models for mapping/predicting coo
   * problem: in order to give readers an understanding on crucial or non-essential elements in social structures (e.g. you can eliminate the police but not the clergy?) 
   * problem: in order to give readers a better understanding of what keeps our current civilizations from devolving
 
+  british game show
+  survivor reality show
+  warewolf
+  secret hitler
+  dixit
+
+
+  paul krugman manufactoring networks
+  trade routes - when did the commodities start shifting - physical objects may be easier to track than ideas
+  experimental pscyh to avoid bias
+  IRB 
+
+
 because I want to understand how environment effects populations' ability/willingness to cooperate
   * problem: in order to give readers a better understanding of how their own backgrounds contribute to their own or their neighbors' behavior
   * problem: in order to give readers a better understanding of the factors that went into play to creating their current culture and norms
