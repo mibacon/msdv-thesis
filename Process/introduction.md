@@ -1,18 +1,22 @@
 
 ### Intorduction for Game Theory
 MSDV Thesis
+
 Michal Bacon
 
 ---
 
-**Context:** 
+**Context:**
+
 Game theory can be a tool that can help users make more rational or strategic decisions.
 
 **Problem:** 
 1. Game theory is hard to access - a lot of formulas
 2. Is game theory stuck in the past - or is this a misconception?
 
-**Solution:** Visualization of games and recontextualization to make the games and strategies clearer to readers so that they can better apply them to their own lives.
+**Solution:** 
+
+Visualization of games and recontextualization to make the games and strategies clearer to readers so that they can better apply them to their own lives.
 
 1. What is game theory?
     1. History (Von Neumann, Nash, Axelrod)
@@ -38,14 +42,16 @@ Game theory can be a tool that can help users make more rational or strategic de
        3. Pavlov
 
 
-**Personal problems:** 
+**Personal problems:**  
+
 I no longer talk at all about cooperation which is what got me interested in this topic to begin with…
 
 Am I formulating the right problem? Is this an interesting enough problem??
 
 Within this problem/solution formula, I don’t really think there is room for the Moore environment matrix. I’m not sure ESS works either…
 
-**Sources:**
+**Sources:** 
+
 Binmore, Ken. *Game theory: a very short introduction.* Vol. 173. Oxford University Press, 2007.
 
 Poundstone, William. *Prisoner's Dilemma/John von Neumann, Game Theory and the Puzzle of the Bomb.* Anchor, 1993.
@@ -78,6 +84,8 @@ Talwalkar, Presh. *The joy of game theory: An introduction to strategic thinking
         2. Tit-for-tat
         3. Pavlov
 5. Moore Matrix
+
+**Sources:** 
 
 Nowak, Martin A., and Robert M. May. "Evolutionary games and spatial chaos." Nature 359, no. 6398 (1992): 826.
 Skyrms, Brian. *The stag hunt and the evolution of social structure.* Cambridge University Press, 2004.
