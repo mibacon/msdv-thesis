@@ -1,5 +1,5 @@
 
-### An Intorduction to Game Theory
+### Intorduction for Game Theory
 MSDV Thesis
 Michal Bacon
 
