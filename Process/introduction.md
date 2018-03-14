@@ -1,6 +1,6 @@
 
 ### An Intorduction to Game Theory
-#### MSDV Thesis
+MSDV Thesis
 Michal Bacon
 
 ---
@@ -15,27 +15,27 @@ Game theory can be a tool that can help users make more rational or strategic de
 **Solution:** Visualization of games and recontextualization to make the games and strategies clearer to readers so that they can better apply them to their own lives.
 
 1. What is game theory?
-  a. History (Von Neumann, Nash, Axelrod)
-  b. What’s it good for? (Practical applications)
-  c. Strategies and Equilibria
-  d. Normalized forms and Decision Trees
-  e. (A short) history of visualizations in game theory
+  1. History (Von Neumann, Nash, Axelrod)
+  2. What’s it good for? (Practical applications)
+  3. Strategies and Equilibria
+  4. Normalized forms and Decision Trees
+  5. (A short) history of visualizations in game theory
 2. Prisoner’s Dilemma, Chicken (Hawk-Dove/Snowdrift), Stag Hung
-  a. Description
-  b. History
-  c. Practical applications
-  d. Normalized form
-  e. Nash equilibrium
+  1. Description
+  2. History
+  3. Practical applications
+  4. Normalized form
+  5. Nash equilibrium
 3. Repeated Games
-  a. Shadow of future
-  b. Basin of attraction
-  c. Folk Theorem (?)
+  1. Shadow of future
+  2. Basin of attraction
+  3. Folk Theorem (?)
 4. Evolutionary Game Theory
-  a. History (Maynard-Smith, Dawkins)
-  b. Axelrod Tournaments and simulated strategies
-     i. Grim Trigger
-     ii. Tit-for-tat]
-     iii. Pavlov
+  1. History (Maynard-Smith, Dawkins)
+  2. Axelrod Tournaments and simulated strategies
+     1. Grim Trigger
+     2. Tit-for-tat]
+     3. Pavlov
 
 
 **Personal problems:** 
@@ -61,23 +61,23 @@ Talwalkar, Presh. *The joy of game theory: An introduction to strategic thinking
 **Solution:** I will apply the strategies popularized by Axelrod in the iterated Prisoner’s Dilemma and Maynard-Smith/Dawkins for the Hawk-Dove game and see how they fare in the Stag Hunt game.
 
 1. What is game theory?
-  a. History (Von Neumann, Nash, Axelrod
+  1. History (Von Neumann, Nash, Axelrod
 2. Social dilemmas
-  a. Prisoner’s Dilemma
-  b. Hawk-Dove
-  c. Stag Hunt
-  d. Deadlock
+  1. Prisoner’s Dilemma
+  2. Hawk-Dove
+  3. Stag Hunt
+  4. Deadlock
 3. Repeated Games
-  a. Shadow of future
-  b. Basin of attraction
-  c. Folk Theorem (?)
+  1. Shadow of future
+  2. Basin of attraction
+  3. Folk Theorem (?)
 4. Evolutionary Game Theory
-  a. History (Maynard-Smith, Dawkins)
-  b. Axelrod Tournaments and simulated strategies
-    i. Grim Trigger
-    ii. Tit-for-tat
-    iii. Pavlov
-    iv. Moore Matrix
+  1. History (Maynard-Smith, Dawkins)
+  2. Axelrod Tournaments and simulated strategies
+    1. Grim Trigger
+    2. Tit-for-tat
+    3. Pavlov
+5. Moore Matrix
 
 Nowak, Martin A., and Robert M. May. "Evolutionary games and spatial chaos." Nature 359, no. 6398 (1992): 826.
 Skyrms, Brian. *The stag hunt and the evolution of social structure.* Cambridge University Press, 2004.
